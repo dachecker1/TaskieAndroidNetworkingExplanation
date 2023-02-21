@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TaskieAndroidNetworkingExplanation</string>
+    <string name="email_input_hint">Email</string>
+    <string name="password_input_hint">Пароль</string>
+    <string name="login_button_text">Войти</string>
+    <string name="no_account_text">Еще нет аккаунта?</string>
+    <string name="register_label">Регистрация</string>
+    <string name="name_hint">Имя</string>
+    <string name="already_registered">Уже зарегистрирован? Войди!</string>
+    <string name="new_task_heading_text">Создать задачу!</string>
+    <string name="task_title_hint">Заголовок задачи</string>
+    <string name="task_text_hint">Текст</string>
+    <string name="lowPriority">Низкий</string>
+    <string name="mediumPriority">Средний</string>
+    <string name="highPriority">Высокий</string>
+    <string name="save_task_text">Сохранить</string>
+    <string name="no_data">Пусто! Создай заметки! :]</string>
+    <string name="empty_fields">Пожалуйста проверьте ввод!</string>
+    <string name="complete_task">Завершить</string>
+    <string name="delete_task">Удалить</string>
+    <string name="invalid_data">Неправильные данные!</string>
+    <string name="logout_button_text">Выйти</string>
+    <string name="user_name_text">Имя пользователя: %1$s</string>
+    <string name="number_of_notes_text">Количество заметок: %1$d</string>
+</resources>
